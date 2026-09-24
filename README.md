@@ -6,8 +6,8 @@ A command-line Java application designed to help university students or instruct
 The system leverages optimized in-memory data structures (`java.util.HashMap`) to store records with fast retrieval speeds.
 
 ## 👥 Authors
-* **[Your Name]** - Roll No: `[Your Roll Number]`
-* **[Friend's Name]** - Roll No: `[Friend's Roll Number]` (Remove if working alone)
+* **[Aarav Dagur]** - Roll No: `[2620030496]`
+* **[K.Eshanth]** - Roll No: `[2620030492]
 
 ## 🚀 Key Features
 * **In-Memory Student Database:** Add unique Student IDs to an optimized database registry.
@@ -20,23 +20,6 @@ The system leverages optimized in-memory data structures (`java.util.HashMap`) t
 * **Language:** Java (JDK 8 or higher) [1]
 * **Core Collection API:** `java.util.HashMap` (configured with a 128-bucket initial capacity for fast indexing) [1]
 * **I/O Engine:** `java.util.Scanner` for safe console streams [1]
-
-## 💻 How to Setup and Run the Project
-
-Ensure you have the **Java Development Kit (JDK)** installed on your machine.
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com[your-username]/[your-repo-name].git
-   ```
-2. **Compile the source file:**
-   ```bash
-   javac Tracker.java
-   ```
-3. **Run the application:**
-   ```bash
-   java Tracker
-   ```
 
 ## 🎮 How it Works (Menu Options)
 When you launch the program, you will navigate via a terminal interactive menu:
